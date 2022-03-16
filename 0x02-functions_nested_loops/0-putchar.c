@@ -2,7 +2,7 @@
 
 /**
  * main - Entry Block
-  *Description: prints holberton on new line
+  *Description: prints _putchar on new line
  * Return: 0
  */
 int main(void)
